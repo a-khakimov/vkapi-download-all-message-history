@@ -6,7 +6,7 @@
 
 ```json
 {
-	'token' : 'user_token'
+	"token" : "user_token"
 }
 ```
 
